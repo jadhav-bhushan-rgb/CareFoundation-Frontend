@@ -1,0 +1,19 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/coupons/page": "app/admin/coupons/page.js",
+  "/admin/create-doctor/page": "app/admin/create-doctor/page.js",
+  "/admin/donations/page": "app/admin/donations/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/campaigns/[id]/page": "app/campaigns/[id]/page.js",
+  "/campaigns/page": "app/campaigns/page.js",
+  "/create-fundraiser/page": "app/create-fundraiser/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/donate/[id]/page": "app/donate/[id]/page.js",
+  "/donation-success/page": "app/donation-success/page.js",
+  "/login/page": "app/login/page.js",
+  "/my-donations/page": "app/my-donations/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/redeem-coupon/page": "app/redeem-coupon/page.js"
+}
